@@ -97,7 +97,7 @@ Do not continue if the value differs. Delete that copy and download the DMG agai
 
 Nitrax checks that it is running from Applications and then walks through the rest of setup. Return to Nitrax after each external window; the guide normally detects the completed step automatically.
 
-![Nitrax setup confirming that the app is running from Applications](docs/images/onboarding/applications-folder-check.png)
+![Nitrax setup confirming that the app is running from Applications](docs/images/onboarding/nitrax-in-applications-centered.png)
 
 _The Applications check prevents a temporary download copy from becoming the daily app._
 
